@@ -1,6 +1,6 @@
 {
   "name": "hola-mundo-nodeJS",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Es una app Hello World en nodejS",
   "private": true,
   "scripts": {
